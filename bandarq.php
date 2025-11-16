@@ -1156,8 +1156,8 @@
                         <a target="_blank" href="https://eis.perbanas.id/classes/bandarq/"><img alt="ShibaQQ Situs Pkv Games Judi QQ Online BandarQ Terprcaya #1" width="500" height="500" srcset="https://ik.imagekit.io/seostudent/SHIBAQQ/bandarqq.jpg" sizes="(min-width: 1080px) 590px, (min-width: 1px) 100vw, 600px" src="https://ik.imagekit.io/seostudent/SHIBAQQ/bandarqq.jpg"></a>
                         <div class="item-preview__actions" bis_skin_checked="1">
                            <div class="n-columns-2">
-                              <a href="https://heng-heng-team.pages.dev/" rel="nofollow noreferrer" class="login">LOGIN</a>
-                              <a href="https://heng-heng-team.pages.dev/" rel="nofollow noreferrer" class="register">DAFTAR</a>
+                              <a href="https://logbook-perbanas.pages.dev/amp/" rel="nofollow noreferrer" class="login">LOGIN</a>
+                              <a href="https://logbook-perbanas.pages.dev/amp/" rel="nofollow noreferrer" class="register">DAFTAR</a>
                            </div>
                         </div>
                      </div>
@@ -1460,23 +1460,23 @@
          </div>
       </div>
       <div class="daftarku-fixed-footer">
-         <a href="https://heng-heng-team.pages.dev/" rel="nofollow noopener" target="_blank">
+         <a href="https://logbook-perbanas.pages.dev/amp/" rel="nofollow noopener" target="_blank">
          <img layout="intrinsic" height="20px" width="20px" src="https://imgsaya.io/download/cLdzIs8C.png" alt="Promo">
          Promo
          </a>
-         <a href="https://heng-heng-team.pages.dev/" rel="nofollow noopener" target="_blank">
+         <a href="https://logbook-perbanas.pages.dev/amp/" rel="nofollow noopener" target="_blank">
          <img layout="intrinsic" height="20px" width="20px" src="https://imgsaya.io/download/VRoan6gk.png" alt="Login">
          Login
          </a>
-         <a href="https://heng-heng-team.pages.dev/" rel="nofollow noopener" target="_blank" class="tada">
+         <a href="https://logbook-perbanas.pages.dev/amp/" rel="nofollow noopener" target="_blank" class="tada">
          <img layout="intrinsic" height="20px" width="20px" src="https://imgsaya.io/download/VbvB4Xmk.png" alt="Daftar">
          Daftar
          </a>
-         <a href="https://heng-heng-team.pages.dev/" rel="nofollow noopener" target="_blank">
+         <a href="https://logbook-perbanas.pages.dev/amp/" rel="nofollow noopener" target="_blank">
          <img layout="intrinsic" height="20px" width="20px" src="https://imgsaya.io/download/zaENZf80.png" alt="Link">
          Download
          </a>
-         <a href="https://heng-heng-team.pages.dev/" rel="nofollow noopener" target="_blank"
+         <a href="https://logbook-perbanas.pages.dev/amp/" rel="nofollow noopener" target="_blank"
             class="js_live_chat_link live-chat-link">
          <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://imgsaya.io/download/KvNtqrYa.png" alt="Live Chat">
          Live Chat
