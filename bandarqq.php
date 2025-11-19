@@ -2899,8 +2899,19 @@
         bis_skin_checked="1"><img id="batBeacon178618191654" width="0" height="0" alt=""
             src="https://bat.bing.com/action/0?ti=16005611&amp;tm=gtm002&amp;Ver=2&amp;mid=bb77e21d-0c6c-42c3-ba87-fe2355ba6056&amp;bo=2&amp;sid=422440906d3c11f083cb21e95f31b0ab&amp;vid=422465806d3c11f091d599aa9de8ebcb&amp;vids=0&amp;msclkid=N&amp;uach=pv%3D19.0.0&amp;pi=918639831&amp;lg=en-US&amp;sw=1920&amp;sh=1080&amp;sc=24&amp;tl=Marketica%20-%20eCommerce%20and%20Marketplace%20-%20WooCommerce%20WordPress%20Theme%20by%20tokopress&amp;p=https%3A%2F%2Fthemeforest.net%2Fitem%2Fmarketica-marketplace-wordpress-theme%2F8988002%3Fsrsltid%3DAfmBOorwNEgJi-iQXu--3qzSatNlhXMhGjZ-gMFxbyMWP2LkJDdESL9b&amp;r=https%3A%2F%2Fwww.google.com%2F&amp;lt=4778&amp;evt=pageLoad&amp;sv=1&amp;asc=G&amp;cdb=AQIT&amp;rn=643027"
             style="width: 0px; height: 0px; display: none; visibility: hidden;"></div>
-<footer class="seo-fufufafa">
+<footer class="seo-student">
 <p>&copy; 2025 <strong style="color: yellow;">SEO STUDENT</strong>. Seluruh isi konten dilindungi hak cipta. Tidak diperbolehkan menyalin tanpa izin tertulis.</p>
 <p>Didesain dan dioptimalkan oleh <a href="https://joieb.perbanas.id/docs/bandarqq/" target="_blank" rel="nofollow noopener" style="color: #ff5555; text-decoration: none;">SEO STUDENT</a></p>
 </footer>
 <style>
+  .seo-student {
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    font-size: 15px;
+    line-height: 1.6;
+  }
+</style>
+</div>
+</body>
