@@ -2795,9 +2795,6 @@
             }
         }
         function trimGaSessionCookies() {
-            // Kalau ada 9 nyawa, mau sama seo 404 saja semuanya
-            // hanya seo 404
-            // only seo 404
             let maxCookies = 15
             var gaCookies = []
             // safelist our GA properties for production and staging
